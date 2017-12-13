@@ -20,6 +20,7 @@
 		E536927B1FDE85CB0097EC71 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E536927A1FDE85CB0097EC71 /* LoginVC.swift */; };
 		E536927D1FE09F3C0097EC71 /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E536927C1FE09F3C0097EC71 /* CreateAccountVC.swift */; };
 		E53692801FE0B3E10097EC71 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E536927F1FE0B3E10097EC71 /* AuthService.swift */; };
+		E53692821FE0BADD0097EC71 /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E53692811FE0BADD0097EC71 /* RoundedButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		E536927A1FDE85CB0097EC71 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		E536927C1FE09F3C0097EC71 /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 		E536927F1FE0B3E10097EC71 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
+		E53692811FE0BADD0097EC71 /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
 		F64F5BC8D4E37D07D321E942 /* Pods-Smack.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Smack.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Smack/Pods-Smack.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -134,6 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				E53692751FDE00920097EC71 /* GradientView.swift */,
+				E53692811FE0BADD0097EC71 /* RoundedButton.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -286,6 +289,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E53692741FDC7E3C0097EC71 /* ChatVC.swift in Sources */,
+				E53692821FE0BADD0097EC71 /* RoundedButton.swift in Sources */,
 				E53692581FDC7B6E0097EC71 /* AppDelegate.swift in Sources */,
 				E536927D1FE09F3C0097EC71 /* CreateAccountVC.swift in Sources */,
 				E53692801FE0B3E10097EC71 /* AuthService.swift in Sources */,
